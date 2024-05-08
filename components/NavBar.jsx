@@ -83,7 +83,7 @@ export default function NavBar() {
     <>
       <div
         className={`w-full ${
-          scrolled ? "bg-gray-600/70" : "bg-gray-600"
+          scrolled ? "bg-custom-color" : "bg-custom-color"
         } px-6 h-20 bg-gray-600 text-white flex items-center justify-between fixed top-0 left-0 z-50`}
       >
         <div className="px-2 h-full flex items-center justify-center">

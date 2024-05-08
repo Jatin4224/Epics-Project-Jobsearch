@@ -42,7 +42,7 @@ export default function Intro() {
             />
             <button
               onClick={handleSearch}
-              className="px-3 py-2 my-2 sm:my-0 border border-indigo-600 rounded uppercase tracking-widest mx-4   text-white bg-sky-700 transition-all duration-700 hover:bg-transparent font-semibold text-base hover:text-indigo-600"
+              className="px-3 py-2 my-2 sm:my-0 border border-sky-700 rounded uppercase tracking-widest mx-4   text-white bg-sky-700 transition-all duration-700 hover:bg-transparent font-semibold text-base hover:text-sky-700"
             >
               Search
             </button>

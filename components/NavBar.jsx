@@ -142,13 +142,13 @@ export default function NavBar() {
             <>
               <Link
                 href={"/auth/login"}
-                className="px-4 py-2 border border-white rounded uppercase tracking-widest mx-4   transition-all duration-700 hover:bg-white font-semibold text-base hover:text-indigo-600"
+                className="px-4 py-2 border border-white rounded uppercase tracking-widest mx-4   transition-all duration-700 hover:bg-white font-semibold text-base hover:text-sky-700"
               >
                 Login
               </Link>
               <Link
                 href={"/auth/register"}
-                className="px-4 py-2 border border-white rounded uppercase tracking-widest mx-4   text-indigo-600 bg-white transition-all duration-700 hover:bg-transparent font-semibold text-base hover:text-white"
+                className="px-4 py-2 border border-white rounded uppercase tracking-widest mx-4   text-sky-700 bg-white transition-all duration-700 hover:bg-transparent font-semibold text-base hover:text-white"
               >
                 REGISTER
               </Link>
@@ -236,13 +236,13 @@ export default function NavBar() {
                 <>
                   <Link
                     href={"/auth/login"}
-                    className="px-4 py-2 border border-white rounded uppercase tracking-widest mx-4   transition-all duration-700 hover:bg-white font-semibold text-base hover:text-indigo-600"
+                    className="px-4 py-2 border border-white rounded uppercase tracking-widest mx-4   transition-all duration-700 hover:bg-white font-semibold text-base hover:text-sky-700"
                   >
                     Login
                   </Link>
                   <Link
                     href={"/auth/register"}
-                    className="px-4 py-2 border border-white rounded uppercase tracking-widest mx-4   text-indigo-600 bg-white transition-all duration-700 hover:bg-transparent font-semibold text-base hover:text-white"
+                    className="px-4 py-2 border border-white rounded uppercase tracking-widest mx-4   text-sky-700 bg-white transition-all duration-700 hover:bg-transparent font-semibold text-base hover:text-white"
                   >
                     REGISTER
                   </Link>

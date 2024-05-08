@@ -4,7 +4,7 @@ import { BsDot } from "react-icons/bs";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import { useRouter } from "next/router";
 
-export default function NgosCard({data}) {
+export default function NgosCard({ data }) {
   return (
     <div className="w-full cursor-pointer  transition-all duration-1000  md:w-5/12 m-4 border hover:shadow-xl rounded px-4 md:flex md:flex-wrap">
       <div className="mb-4 flex  items-center justify-center py-2 ">
@@ -24,12 +24,12 @@ export default function NgosCard({data}) {
       </div>
       {/* <div className="mb-4 flex   items-start justify-center py-2 flex-col">
         <div className="flex  px-2 py-2 items-center justify-center ">
-          <BsDot className="text-4xl font-extrabold text-indigo-600" />
+          <BsDot className="text-4xl font-extrabold text-sky-700" />
           <h1 className="text-lg text-gray-900">Salary :</h1>
           <p className="text-base  font-semibold">10$ / month</p>
         </div>
         <div className="flex px-2 py-2 items-center  justify-center">
-          <BsDot className="text-4xl font-extrabold text-indigo-600" />
+          <BsDot className="text-4xl font-extrabold text-sky-700" />
           <h1 className="text-lg text-gray-900">Deadline :</h1>
           <p className="text-base  font-semibold">
             {new Date(Date.now()).toLocaleDateString("en-GB")}
@@ -45,7 +45,7 @@ export default function NgosCard({data}) {
         <a
           href={data.link}
           target="_blank"
-          className="my-2 py-2 px-4  border border-indigo-600   rounded flex items-center justify-center transition-all duration-700 hover:bg-indigo-600 hover:text-white text-indigo-600 font-semibold"
+          className="my-2 py-2 px-4  border border-sky-700   rounded flex items-center justify-center transition-all duration-700 hover:bg-indigo-600 hover:text-white text-sky-700 font-semibold"
         >
           More details <AiOutlineArrowRight className="mx-2 text-xl" />
         </a>

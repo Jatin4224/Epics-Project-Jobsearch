@@ -11,10 +11,6 @@ module.exports = {
 
   theme: {
     extend: {
-      colors: {
-        // Configure your color palette here
-        blue: "#0369a1",
-      },
       keyframes: {
         "fade-in-down": {
           "0%": {
@@ -28,7 +24,7 @@ module.exports = {
         },
       },
       boxShadow: {
-        neon: "0 0 10px #06d6a1, 0 0 20px #06d6a1, 0 0 40px #06d6a1, 0 0 80px #06d6a1",
+        neon: " 0 0 10px #06d6a1, 0 0 20px #06d6a1, 0 0 40px #06d6a1, 0 0 80px #06d6a1",
       },
       animation: {
         "fade-in-down": "fade-in-down 0.5s ease-out",

@@ -87,8 +87,8 @@ export default function NavBar() {
         } px-6 h-20 bg-gray-600 text-white flex items-center justify-between fixed top-0 left-0 z-50`}
       >
         <div className="px-2 h-full flex items-center justify-center">
-          <p className="uppercase font-semibold tracking-widest text-lg">
-            𝓙𝓪𝓷𝓢𝓮𝔀𝓪
+          <p className="lowercase font-semibold tracking-widest text-lg">
+            𝓙ob𝓢𝓮𝔀𝓪
           </p>
         </div>
         <div className="px-2 h-full hidden items-center justify-center lg:flex">

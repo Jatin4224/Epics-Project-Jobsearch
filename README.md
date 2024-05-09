@@ -1,7 +1,7 @@
 ##### This App is Live and Running At the following
-#### https://jansewa.vercel.app/
+#### https://epics-project-jobsearch.vercel.app/
 
-![image](https://github.com/Shrey-Srivastava21/JanSewa_EPICS/assets/78805153/e996daa1-33e1-4c1c-a4a6-86a85d2a7d64)
+
 
 
  - don't forget to leave a star! :)
@@ -35,15 +35,15 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-## About Jansewa:
+## About Jobsewa:
 
-JanSewa is a unique e-job portal designed to directly connect laborers such as plumbers, electricians, carpenters, and other similar professionals with job employers. The platform aims to provide better accessibility and more opportunities for local workers, by enabling them to connect directly with potential employers quickly and efficiently.
+JobSewa is a unique e-job portal designed to directly connect laborers such as plumbers, electricians, carpenters, and other similar professionals with job employers. The platform aims to provide better accessibility and more opportunities for local workers, by enabling them to connect directly with potential employers quickly and efficiently.
 
-With JanSewa, employers can post job listings on the platform and connect with skilled workers in their local area, ensuring that the right person is hired for the job. This service aims to reduce the hassle of finding reliable workers by providing a direct link between employers and workers.
+With JobSewa, employers can post job listings on the platform and connect with skilled workers in their local area, ensuring that the right person is hired for the job. This service aims to reduce the hassle of finding reliable workers by providing a direct link between employers and workers.
 
-Furthermore, JanSewa also aims to help skilled workers who may struggle to find job opportunities due to socio-economic conditions or other factors by connecting these professionals directly with potential employers, the platform can help them secure work and provide for their families.
+Furthermore, JobSewa also aims to help skilled workers who may struggle to find job opportunities due to socio-economic conditions or other factors by connecting these professionals directly with potential employers, the platform can help them secure work and provide for their families.
 
-JanSewa strives to make the hiring process more accessible, efficient, and affordable for all parties involved. With its user-friendly platform and focus on connecting local workers with employers, JanSewa is set to become an essential tool for those seeking to find reliable skilled labor near VIT Bhopal remote areas and beyond.
+JobSewa strives to make the hiring process more accessible, efficient, and affordable for all parties involved. With its user-friendly platform and focus on connecting local workers with employers, JobSewa is set to become an essential tool for those seeking to find reliable skilled labor near VIT Bhopal remote areas and beyond.
 
 •	Categories of workers-
 •	Painters
@@ -61,18 +61,18 @@ Login or Register and User Authentication :
 1.	Our e-job portal site will start with a login/Signup page.
 2.	To get access to our website, A user has to sign up for our website for the first time. After signing up, the user can log in using the username and password.
 3.	After logging in, users will get access to our e-job portal.
-4.	Skilled workers can register on JanSewa's portal as job seekers/employees.
+4.	Skilled workers can register on JobSewa's portal as job seekers/employees.
 5.	Registered employers can filter their search by city and specific job requirements.
 6.	A list of relevant employees and laborers will be displayed to the employer based on their search criteria.
 
-JanSewa Job Seekers Actions:
+JobSewa Job Seekers Actions:
 
 1.	Job seekers can register, edit, or delete their profiles through the website or message.
 2.	Upon successful registration, the job seekers will receive notifications on their app screen or through email/MMS for any job opportunities that match their skills and location.
 
 Employers Action:
 
-1.	Employers or job givers can create their profile, edit, and delete it as per their requirements on the JanSewa website.
+1.	Employers or job givers can create their profile, edit, and delete it as per their requirements on the JobSewa website.
 2.	They can search for job seekers who are registered on the platform.
 3.	The website will display the list of job seekers available in their current city on the home page.
 4.	Employers can also search for specific job seekers based on their skill set, location, availability, and wages.
@@ -88,7 +88,7 @@ Categories of Services available on our site and Service page:
 
 NGO Regulated:
 
-1.	NGOs and related organizations can create their profile and post job openings on the JanSewa website.
+1.	NGOs and related organizations can create their profile and post job openings on the JobSewa website.
 2.	The website will send job opening message notifications to workers who have registered with the website.
 3.	NGOs and related organizations can edit and delete their profiles on the website as needed.
  
@@ -125,11 +125,8 @@ Install my-project with npm
 ```
     
     
-## Need help?
 
 
-Feel free to contact me on \
-<a href = "https://www.linkedin.com/in/shrey-srivastava-591bb21bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href = "https://github.com/Shrey-Srivastava21" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---------
 

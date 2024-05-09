@@ -47,8 +47,11 @@ export default function Home() {
           content="job portal, job search, career opportunities, employment, job listings, job openings, job vacancies, job postings, hiring, recruitment"
         />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://jansewa.vercel.app/" />
-        <meta name="author" content="Janseva_Team" />
+        <link
+          rel="canonical"
+          href="https://epics-project-jobsearch.vercel.app/"
+        />
+        <meta name="author" content="JobSewa_Team" />
         <meta
           property="og:title"
           content="Find Your Dream Job | Job Portal Name"
